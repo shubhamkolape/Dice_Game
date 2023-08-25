@@ -59,7 +59,7 @@ transition: 0.1s background ease-in;
     background-color: white;
     border: 1px solid black;
     transition: 0.3s background ease-in;
-}`;function Em({toggle:e}){return R.jsxs(Cm,{children:[R.jsx("div",{children:R.jsx("img",{src:"/Images/dices.png"})}),R.jsxs("div",{className:"content",children:[R.jsx("h1",{children:"DICE GAME"}),R.jsx(Wi,{onClick:e,children:"Play Now"})]})]})}const Cm=at.div`
+}`;function Em({toggle:e}){return R.jsxs(Cm,{children:[R.jsx("div",{children:R.jsx("img",{src:"/Images/bigdice.png"})}),R.jsxs("div",{className:"content",children:[R.jsx("h1",{children:"DICE GAME"}),R.jsx(Wi,{onClick:e,children:"Play Now"})]})]})}const Cm=at.div`
     max-width: 1180px;
     display: flex;
     margin: 0 auto;
