@@ -10,7 +10,7 @@ export default function StartGame({toggle}) {
   return (
     <Container>
             <div>
-            <img src='/Images/dices.png'/>
+            <img src='/Images/bigdice.png'/>
             </div>
             
             <div className='content'>
