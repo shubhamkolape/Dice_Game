@@ -114,7 +114,7 @@ p{
     cursor: pointer;   
     background-color: ${e=>e.IsSelected?"black":"white"};
     color: ${e=>e.IsSelected?"white":"black"};
-`;function Rm({currentdice:e,roleDice:t}){return R.jsxs(Lm,{children:[R.jsx("div",{className:"dice",onClick:t,children:R.jsx("img",{src:`/Images/Dice/dice_${e}.png`,alt:"dice1_1"})}),R.jsx("p",{children:"Click to Dice Roll"})]})}const Lm=at.div`
+`;function Rm({currentdice:e,roleDice:t}){return R.jsxs(Lm,{children:[R.jsx("div",{className:"dice",onClick:t,children:R.jsx("img",{src:`./Images/${e}.png`,alt:"dice1_1"})}),R.jsx("p",{children:"Click to Dice Roll"})]})}const Lm=at.div`
 
     display: flex;
     align-items: center;
