@@ -10,6 +10,8 @@ Welcome to the Dice Roll Game App! This is a simple game built using React and V
 - Option to reset the game and start over.
 - Access instructions on how to play the game.
 
+ ### [Click Here to play](https://shubhamkolape.github.io/Dice_Game/)
+
 ## Getting Started
 
 ### Prerequisites
